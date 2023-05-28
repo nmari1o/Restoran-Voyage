@@ -1,0 +1,84 @@
+
+
+.navbar-nav {
+	background-color: #ADD8E6 ;
+  overflow: hidden;
+}
+.body{
+	background-color: lightblue;
+}
+
+
+.r2a img, .r2b img{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.r2a h2, .r2b h2, .r3 h2{
+	text-align: center;
+}
+
+.naslov{
+	color: white;
+	font-size: 75px;
+}
+a:hover{
+	color: white;
+	background-color: lightblue;
+	font-style: italic;
+	text-decoration: none;
+	text-align:justify;
+	
+}
+a:visited{
+	color: red;
+	font-weight: bold;
+}
+	
+	
+
+.r3{
+	width: 100%;
+  height: 180px;
+  background-image: url("../images/ponuda.jpg");
+margin-bottom: 50px;
+	 align-items: center;
+  justify-content: center;
+}
+
+div{
+	padding: 15px;
+}
+.r3a, .r3b, .r4a, .r4b{
+	 border: 1px solid gray;
+  margin: 10px 10px;
+	
+	text-align: justify;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	
+}
+
+.r6{
+	text-align: justify;
+}
+table{
+	border: 2px thick black;
+	border-collapse: collapse;
+}
+td{
+	border: 1px solid black;;
+	padding: 5px;
+}
+thead{
+	background-color: darkgreen;
+	color: #ACF7EE
+}
+.nazivi{
+	color: darkslategray;
+	text-align: center;
+	font-weight: bold;
+}
+
